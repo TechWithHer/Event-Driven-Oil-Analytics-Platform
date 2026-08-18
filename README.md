@@ -359,8 +359,3 @@ This project demonstrates hands-on experience with:
 
 ---
 
-# Author
-
-Built as a **DevOps / Cloud Engineering portfolio project** to demonstrate real-world cloud architecture and automation workflows.
-
----
