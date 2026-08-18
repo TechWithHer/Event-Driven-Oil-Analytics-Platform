@@ -1,4 +1,4 @@
-# 🌍 Oil Price Data Pipeline & Dashboard
+# Oil Price Data Pipeline & Dashboard
 
 A cloud-native data pipeline and dashboard that automatically fetches daily oil price data for selected countries, stores historical logs in Amazon S3, and visualizes trends through a static website.
 
@@ -6,7 +6,7 @@ This project demonstrates a **real-world DevOps workflow** combining automation,
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 The goal of this project is to build a **fully automated data pipeline and visualization system** that:
 
@@ -20,7 +20,7 @@ The system leverages serverless architecture and cloud storage to create a **lig
 
 ---
 
-# 🎯 Problem Statement
+# Problem Statement
 
 Many dashboards only display **current data snapshots** and do not maintain historical records.
 
@@ -32,7 +32,7 @@ This project solves that by:
 
 ---
 
-# 🧠 Why This Project?
+# Why This Project?
 
 This project demonstrates practical DevOps and Cloud Engineering skills including:
 
@@ -63,7 +63,7 @@ It simulates how **real production monitoring systems** collect, store, and anal
 
 ---
 
-# 🏗 Architecture
+# Architecture
 
 ```
                 +---------------------+
@@ -106,7 +106,7 @@ Daily Data Pipeline
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
 The web dashboard displays:
 
@@ -162,7 +162,7 @@ oil-price-dashboard
 
 ---
 
-# 📦 S3 Bucket Structure
+# S3 Bucket Structure
 
 ```
 S3 Bucket
@@ -185,7 +185,7 @@ S3 Bucket
 
 ---
 
-# 🔁 Data Pipeline Workflow
+# Data Pipeline Workflow
 
 ### Step 1 — Scheduled Trigger
 
@@ -252,7 +252,7 @@ data/history/oil_prices_YYYY-MM-DD.json
 
 ---
 
-# 📈 Querying Historical Data
+# Querying Historical Data
 
 Data stored in S3 can be analyzed using **Amazon Athena**.
 
@@ -304,7 +304,7 @@ This ensures the website is **always up to date**.
 
 ---
 
-# 📊 Example Dashboard Output
+# Example Dashboard Output
 
 The dashboard will display:
 
@@ -323,7 +323,7 @@ Saudi Arabia 78.3
 
 ---
 
-# 🔐 Security Considerations
+# Security Considerations
 
 To protect the infrastructure:
 
@@ -333,7 +333,7 @@ To protect the infrastructure:
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
 Potential enhancements include:
 
@@ -346,7 +346,7 @@ Potential enhancements include:
 
 ---
 
-# 🎓 Learning Outcomes
+# Learning Outcomes
 
 This project demonstrates hands-on experience with:
 
@@ -359,7 +359,7 @@ This project demonstrates hands-on experience with:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 Built as a **DevOps / Cloud Engineering portfolio project** to demonstrate real-world cloud architecture and automation workflows.
 
